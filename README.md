@@ -78,6 +78,7 @@ Check out the following resource:
 
 * [FACING YOUR F.E.A.R](http://aiandgames.com/facing-your-fear/)
 * [Goal Oriented Action Planning for a Smarter AI](https://gamedevelopment.tutsplus.com/tutorials/goal-oriented-action-planning-for-a-smarter-ai--cms-20793)
+* [Goal-Oriented Action Planning](http://alumni.media.mit.edu/~jorkin/goap.html)
 
 ### Running the code
 
