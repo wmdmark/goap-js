@@ -72,6 +72,8 @@ The GOAP Planner will create the following plan:
 }
 ```
 
+For a more complex example, see [Sim 2](/__test__/sim2.js).
+
 ### Further reading
 
 Check out the following resource:
