@@ -14,7 +14,7 @@ it("can plan actions", () => {
   const plan = createPlan(sim1.initialState, sim1.actions, sim1.goals.collectWood);
   expect(plan).toBeTruthy();
   logPlan(plan)
-
+  
   const plan2 = createPlan(sim2.initialState, sim2.actions, sim2.goals.killEnemy);
   expect(plan2).toBeTruthy();
   logPlan(plan2)
