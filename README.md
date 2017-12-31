@@ -4,7 +4,7 @@ Good question. This is a simple implementation of Goal-Oriented Action Planning 
 
 ### What can I do with this?
 
-If you're making a game with NPC characters that you want to appear realistic and smart, the GOAP can be a greate option. 
+If you're making a game with NPC characters that you want to appear realistic and smart, the GOAP can be a great option. 
 
 ##### Example
 
